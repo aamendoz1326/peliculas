@@ -1,0 +1,117 @@
+#header {
+    background-color: darkcyan;
+    text-decoration: nome;
+    color:whitesmoke;
+    padding: 5px;
+    text-align-last: center;
+    font-family: cooper black;
+}
+#nav{
+    line-height: 25px;
+    background-color: orange;
+    width: 20%;
+    height: 1500px;
+    float: left;
+    padding: 5px;
+    font-weight: bold;
+}
+#content{
+    width: 75%
+        float:left;
+    padding: 5px;
+    font-size: 115%;
+    font-family: bookman old style;
+    text-align: justify;
+    line-height: 30px;
+}
+#footer{
+    background-color: darkcyan;
+    color:whitesmoke;
+    clear: both;/*mueve los elementos debajos de elemento a manos lados*/
+    text-align: center;
+    padding: 5px;
+    
+}
+h3{
+    text-align: center;
+    color:blue;
+}
+h4{
+    color:darkblue;
+}
+.imagen1{
+    width: 300px;
+height:200px;
+float: right;
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin: 6px;
+        padding:2px;
+}
+.imagen2{
+    width: 300px;
+height:200px;
+float: right;
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin: 6px;
+        padding:2px;
+}
+.imagen3{
+    width: 300px;
+height:200px;
+float: right;
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin: 6px;
+        padding:2px;
+}
+.imagen4{ /*titanic*/
+    width: 300px;
+height:500px;
+float: right;
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin: 6px;
+        padding:2px;
+}
+
+
+.imagen5{ /*titanic*/
+    width: 300px;
+height:400px;
+float: right;
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin: 6px;
+        padding:2px;
+}
+
+.imagen6{ /*titanic*/
+    width: 300px;
+height:400px;
+float: right;
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin: 6px;
+        padding:2px;
+}
+
+.imagen7{ /*titanic*/
+    width: 300px;
+height:400px;
+float: right;
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin: 6px;
+        padding:2px;
+}
+.imagen8{ /*titanic*/
+    width: 300px;
+height:400px;
+float: right;
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin: 6px;
+        padding:2px;
+}
